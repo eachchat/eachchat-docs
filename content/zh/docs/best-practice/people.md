@@ -18,7 +18,7 @@ weight: 1
 
 ## 亿洽ID
 
-通过亿洽ID添加联系人，您可以直接参考亿洽用户手册：[使用手册](https://docs.yiqia.com/docs/user-manual/)
+通过亿洽ID添加联系人，您可以直接参考亿洽用户手册：[使用手册](https://docs.yiqia.com/zh/docs/user-manual/)
 
 ## 通讯录
 

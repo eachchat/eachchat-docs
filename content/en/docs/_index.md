@@ -6,4 +6,4 @@ weight: 20
 ---
 
 
-Will come soon
+**Comming soon.  Refer to  [中文文档](../../zh/docs/).**
