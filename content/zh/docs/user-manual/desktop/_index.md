@@ -80,7 +80,7 @@ weight: 2
 
 ### 2.2 登录新的客户端
 
-**对于非第一次登陆亿洽并设置了之前设置了安全密钥请参考[高级功能](http://localhost:1313/docs/user-manual/ios/#advance)，需要您验证端合法性。**
+**对于非第一次登陆亿洽并设置了之前设置了安全密钥请参考[高级功能](http://docs.yiqia.com/docs/user-manual/ios/#advance)，需要您验证端合法性。**
 
 1）点击图像打开"**隐私安全"**，进行安全密钥验证，如下图所示：
 
@@ -204,7 +204,7 @@ verification](https://ids.yunify.com/_matrix/identity/api/v1/validate/email/subm
 
 ![](media/desktop-advance-2.png)
 
-3） 如何配置安全密钥请参考 [iOS端高级功能](http://localhost:1313/docs/user-manual/ios/#advance)
+3） 如何配置安全密钥请参考 [iOS端高级功能](http://docs.yiqia.com/docs/user-manual/ios/#advance)
 
 ## 注意事项
 

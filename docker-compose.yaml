@@ -6,9 +6,11 @@ services:
     image: docsy/docsy-example
     container_name: docsy
     restart: unless-stopped
+    command: server -b https://docs.yiqia.com --appendPort=false
+    environment:
+      HUGO_ENV: production
     build:
       context: .
-    command: server
     network_mode: host
     volumes:
       - .:/src
