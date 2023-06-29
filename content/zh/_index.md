@@ -6,7 +6,7 @@ title: 亿洽文档
 <section>
 	<img src="eachchat-logo.png" alt="Welcome to EachChat" width="40%">
 </section>
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/zh/docs/">
   阅读文档 <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/eachchat">
