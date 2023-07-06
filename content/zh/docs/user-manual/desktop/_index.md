@@ -147,6 +147,7 @@ weight: 2
 ![](media/desktop-shared-9.png)
 
 10）然后继续往下滑动窗口，你将会看到如下图所示：
+![Alt text](image.png)
 
 ![](media/desktop-shared-10.png)
 
