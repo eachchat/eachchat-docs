@@ -10,7 +10,7 @@ weight: 2
 
 ### 1.1. 下载
 
-您可以通过[下载链接](https://github.com/eachchat/eachchat-desktop/releases)下载最新版桌面端。青云内部员工可以通过[青云网盘](https://box.yunify.com/apps/files/?dir=/青云公共目录/IT相关目录/公司常用软件/EachChat&fileid=648312)下载。
+您可以通过[下载链接](https://packages.yunify.com/)下载最新版桌面端。
 
 ### 1.2 MacOS客户端安装
 
@@ -80,7 +80,7 @@ weight: 2
 
 ### 2.2 登录新的客户端
 
-**对于非第一次登陆亿洽并设置了之前设置了安全密钥请参考[高级功能](http://docs.yiqia.com/docs/user-manual/ios/#advance)，需要您验证端合法性。**
+**对于非第一次登陆亿洽并设置了之前设置了安全密钥请参考[高级功能](https://docs.yiqia.com/zh/docs/user-manual/mobile/ios/#4-高级功能)，需要您验证端合法性。**
 
 1）点击图像打开"**隐私安全"**，进行安全密钥验证，如下图所示：
 

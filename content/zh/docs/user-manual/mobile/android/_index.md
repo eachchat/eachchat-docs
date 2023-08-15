@@ -6,7 +6,8 @@ weight: 3
 
 # 1. 安装
 
-1）下载安卓客户端，地址：https://packages.yunify.com/android/
+1）下载安卓客户端地址点[这里](https://packages.yunify.com/android/)
+
 2）点击下载后的apk文件，根据提示进行安装。
 
 # 2. 登录
@@ -43,4 +44,4 @@ weight: 3
 
 # 3. 使用方法
 
-除个别排列方式不同，使用方法请参考[iOS端使用]，
+除个别排列方式不同，使用方法请参考[iOS端使用](https://docs.yiqia.com/zh/docs/user-manual/mobile/ios/#3-使用)，
